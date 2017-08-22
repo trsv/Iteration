@@ -1,0 +1,9 @@
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\obj\Debug\Iteration.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\obj\Debug\Iteration.Form1.resources
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\obj\Debug\Iteration.Properties.Resources.resources
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.GenerateResource.Cache
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\Администратор\documents\visual studio 2015\Projects\Iteration\Iteration\obj\Debug\Iteration.pdb

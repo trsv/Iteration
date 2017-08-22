@@ -1,0 +1,5 @@
+c:\users\администратор\documents\visual studio 2015\Projects\IterationLibrary\IterationLibrary\bin\Debug\IterationLibrary.dll
+c:\users\администратор\documents\visual studio 2015\Projects\IterationLibrary\IterationLibrary\bin\Debug\IterationLibrary.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\IterationLibrary\IterationLibrary\obj\Debug\IterationLibrary.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\IterationLibrary\IterationLibrary\obj\Debug\IterationLibrary.dll
+c:\users\администратор\documents\visual studio 2015\Projects\IterationLibrary\IterationLibrary\obj\Debug\IterationLibrary.pdb
